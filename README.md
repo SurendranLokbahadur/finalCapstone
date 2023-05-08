@@ -4,11 +4,13 @@ TABLE OF CONTENTS
 1) PROJECT NAME
 2) PROJECT DESCRIPTION
 3) INSTALLATION
+4) USAGE
 ----------------
 
 
 1) PROJECT NAME = finalCapstone
 ___________________
+
 
 2) PROJECT DESCRIPTION
 ___________________
@@ -66,3 +68,17 @@ Once all dependencies have been installed, you can run the project by selecting 
 
 - The project should now be running locally on your machine.
 _________________
+
+
+4) USAGE
+
+- Launch the 'final capstone project' by opening the executable file.
+
+- The application will open and display a welcome message along with a menu of options.
+
+- Select an option from the menu by entering the corresponding number and pressing Enter.
+
+- Depending on the option selected, you may be prompted to enter additional information.
+
+- Once all required information has been entered, the application will display the results on the screen.
+To exit the application, select the Exit option from the menu.
